@@ -1,0 +1,11 @@
+C:\Users\binhd\source\repos\Lap02\Lap02-02\bin\Debug\Lap02-02.exe.config
+C:\Users\binhd\source\repos\Lap02\Lap02-02\bin\Debug\Lap02-02.exe
+C:\Users\binhd\source\repos\Lap02\Lap02-02\bin\Debug\Lap02-02.pdb
+C:\Users\binhd\source\repos\Lap02\Lap02-02\obj\Debug\Lap02-02.csproj.AssemblyReference.cache
+C:\Users\binhd\source\repos\Lap02\Lap02-02\obj\Debug\Lap02-02.csproj.SuggestedBindingRedirects.cache
+C:\Users\binhd\source\repos\Lap02\Lap02-02\obj\Debug\Lap02_02.Form1.resources
+C:\Users\binhd\source\repos\Lap02\Lap02-02\obj\Debug\Lap02_02.Properties.Resources.resources
+C:\Users\binhd\source\repos\Lap02\Lap02-02\obj\Debug\Lap02-02.csproj.GenerateResource.cache
+C:\Users\binhd\source\repos\Lap02\Lap02-02\obj\Debug\Lap02-02.csproj.CoreCompileInputs.cache
+C:\Users\binhd\source\repos\Lap02\Lap02-02\obj\Debug\Lap02-02.exe
+C:\Users\binhd\source\repos\Lap02\Lap02-02\obj\Debug\Lap02-02.pdb
